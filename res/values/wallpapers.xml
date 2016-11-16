@@ -29,6 +29,7 @@
         <item>headcase</item>
         <item>iconoclast</item>
         <item>slantstyle</item>
+        <item>hell</item>
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -45,5 +46,6 @@
         <item>Headcase - Asher Simonds</item>
         <item>Iconoclast - Asher Simonds</item>
         <item>Slantstyle - Asher Simonds</item>
+        <item>Hell - Hades</item>
     </string-array>
 </resources>
